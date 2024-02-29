@@ -1,0 +1,13 @@
+nav {
+    background-color: black;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    height: 50px;
+}
+
+nav a{
+    color: blue;
+    
+}
